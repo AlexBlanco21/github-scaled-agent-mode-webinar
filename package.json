@@ -24,5 +24,11 @@
   "license": "MIT",
   "engines": {
     "node": ">=18"
+  },
+  "dependencies": {
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
